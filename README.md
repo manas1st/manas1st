@@ -31,9 +31,10 @@
 - 👋 Hi, I’m Manas Soni
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently working on problem solving and enhancing my skills.
-- 💞️ I’m looking to collaborate on Web Projects
+- 💬 I’m looking to collaborate on Web Projects
 
-<br><hr>
+<br>
+<hr>
 <h3> ⚒️  Languages and Tools: </h3>
 
 <div align="left">
@@ -54,7 +55,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
 
-###
+<hr>
 
 <br clear="both">
 
