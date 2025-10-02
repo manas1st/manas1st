@@ -1,4 +1,4 @@
-<div align="right">Connect with me:
+<div align="right">
   <a href="https://www.linkedin.com/in/manas1st/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
   </a>
