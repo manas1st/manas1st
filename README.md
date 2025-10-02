@@ -33,9 +33,10 @@
 - 🌱 I’m currently working on problem solving and enhancing my skills.
 - 💞️ I’m looking to collaborate on Web Projects
 
-<br>
-⚒️  Languages and Tools:
-<div align="center">
+<br><hr>
+<h3> ⚒️  Languages and Tools: </h3>
+
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
