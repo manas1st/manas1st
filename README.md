@@ -26,14 +26,15 @@
 <img align="right" width="350" src="https://qtcinfotech.com/images/web-development/cms-website-development-service.gif"/>
 
 
-👨‍💻  &nbsp;About Me
+<h3>👨‍💻  About Me</h3>
 
 - 👋 Hi, I’m Manas Soni
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently working on problem solving and enhancing my skills.
 - 💞️ I’m looking to collaborate on Web Projects
 
-
+<br>
+⚒️  Languages and Tools:
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
   <img width="12" />
