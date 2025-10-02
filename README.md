@@ -1,9 +1,4 @@
 <h1 align="center">I am a Software Developer</h1>
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend%20Developer;React.js%20Developer;UI/UX%20Developer;Web%20Developer;&center=true&width=380&height=65"></a>
-</p>
-
-
 <div align="right">
   <a href="https://www.linkedin.com/in/manas1st/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
@@ -19,11 +14,16 @@
   </a>
 </div>
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend%20Developer;React.js%20Developer;UI/UX%20Developer;Web%20Developer;&center=true&width=380&height=65"></a>
+</p>
+
+
 
 <img align="right" height="200" src="https://qtcinfotech.com/images/web-development/cms-website-development-service.gif"  />
 <h4 align="left">Hi👋! My name is Manas Soni and I'm a Student, from India<br>🔭 I’m currently working on Software Development<br>🌱 I’m currently learning AI Engineering</h4>
 
-###
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
